@@ -12,12 +12,12 @@
 
 _The project follows the six-step data analysis process:_
 
-#### [Ask](#1-ask)
-#### [Prepare](#2-prepare)
-#### [Process](#3-process)
-#### [Analyze](#4-analyze)
-#### [Share](#5-share)
-#### [Act](#6-act)
+#### [Step 1 (Ask)](#step-1-ask)
+#### [Step 2 (Prepare)](#step-2-prepare)
+#### [Step 3 (Process)](#step-3-process)
+#### [Step 4 (Analyze)](#step-4-analyze)
+#### [Step 5 (Share)](#step-5-share)
+#### [Step 6 (Act)](#step-6-act)
 
 #
 
