@@ -13,7 +13,7 @@ CREATE TABLE Trip_data_August_2023 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_August_2023
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\August_2023_cleaned.csv'
+FROM '...\input\August_2023_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -35,7 +35,7 @@ CREATE TABLE Trip_data_September_2023 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_August_2023
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\September_2023_cleaned.csv'
+FROM '...\input\September_2023_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -57,7 +57,7 @@ CREATE TABLE Trip_data_October_2023 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_August_2023
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\October_2023_cleaned.csv'
+FROM '...\input\October_2023_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -79,7 +79,7 @@ CREATE TABLE Trip_data_November_2023 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_August_2023
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\November_2023_cleaned.csv'
+FROM '...\input\November_2023_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -101,7 +101,7 @@ CREATE TABLE Trip_data_December_2023 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_December_2023
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\December_2023_cleaned.csv'
+FROM '...\input\December_2023_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -123,7 +123,7 @@ CREATE TABLE Trip_data_January_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_January_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\January_2024_cleaned.csv'
+FROM '...\input\January_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -145,7 +145,7 @@ CREATE TABLE Trip_data_February_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_February_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\February_2024_cleaned.csv'
+FROM '...\input\February_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -167,7 +167,7 @@ CREATE TABLE Trip_data_March_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_March_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\March_2024_cleaned.csv'
+FROM '...\input\March_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -189,7 +189,7 @@ CREATE TABLE Trip_data_April_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_April_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\April_2024_cleaned.csv'
+FROM '...\input\April_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -211,7 +211,7 @@ CREATE TABLE Trip_data_May_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_May_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\May_2024_cleaned.csv'
+FROM '...\input\May_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -233,7 +233,7 @@ CREATE TABLE Trip_data_June_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_June_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\June_2024_cleaned.csv'
+FROM '...\input\June_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
@@ -255,7 +255,7 @@ CREATE TABLE Trip_data_July_2024 (
 
 -- Bulk insert the data into the table
 BULK INSERT Trip_data_July_2024
-FROM 'C:\Users\hassa\Downloads\Google Capestone Cyclistic Bike Share Analysis\Cleaned data\July_2024_cleaned.csv'
+FROM '...\input\July_2024_cleaned.csv'
 WITH (
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '\n',
